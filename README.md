@@ -1,2 +1,2 @@
 # network_programming
-repository ofnetwork development codes
+repository of network development codes
